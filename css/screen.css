@@ -12,6 +12,11 @@ html {
     padding: 24px 24px 0;
 }
 
+body {
+    max-width: 42em;
+    margin: 0 auto;
+}
+
 /*
  * Remove text-shadow in selection highlight:
  * https://twitter.com/miketaylr/status/12228805301
@@ -155,7 +160,7 @@ a:focus {
     html {
         padding: 48px 48px 24px;
     }
-    
+
     h1 {
         font-size: 58px;
         line-height: 64px;
